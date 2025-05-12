@@ -1,0 +1,9 @@
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.csproj.AssemblyReference.cache
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/VisualizerWpfWindow.baml
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/VisualizerWpfWindow.g.cs
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame_MarkupCompile.cache
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.g.resources
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.AssemblyInfoInputs.cache
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.AssemblyInfo.cs
+/Users/sinmi/bee_swarm_game/net_swarm_game/obj/Debug/net8.0-windows7.0/BeeSwarmGame.csproj.CoreCompileInputs.cache

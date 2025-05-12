@@ -1,0 +1,33 @@
+# This file contains the list of files to be processed by the MGCB.
+#
+# Directories are specified relative to the directory containing this file.
+#
+# The format is:
+# /outputDir:<output directory>
+# /intermediateDir:<intermediate directory>
+# /platform:<target platform>
+# /config:<Debug or Release>
+# /profile:<Reach or HiDef>
+# /compress:Enable compression.
+#
+# /importer:<importer name>
+# /processor:<processor name>
+# /processorParam:<param name>=<param value>
+# /build:<filename>
+
+# Use relative paths pointing to the project's build output directories
+/outputDir:../bin/$(Platform)/$(Configuration)/Content
+/intermediateDir:../obj/$(Platform)/$(Configuration)/Content
+/platform:DesktopGL
+/config:$(Configuration) # Use Configuration variable passed by MSBuild
+/profile:HiDef
+/compress:False
+
+#-------------------------------- Fonts ----------------------------------------#
+
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+# /build:DefaultFont.spritefont
+
+#-------------------------------------------------------------------------------#
